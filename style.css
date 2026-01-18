@@ -1,0 +1,30 @@
+html, body {
+  margin: 20;
+  padding: 0;
+  border: 20px solid rgb(209, 130, 33);
+
+  font: bold 20px Arial, sans-serif;
+
+}
+canvas {
+  display: block;
+}
+
+h1 {
+  color: rgb(91, 91, 186);
+
+}
+
+a:hover {
+  color: red;
+}
+
+img{ /* centers image */
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main {
+  background-color : rgb(240, 240, 240, 0.4);
+}
